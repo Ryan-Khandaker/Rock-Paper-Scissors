@@ -23,4 +23,12 @@ Once the tournament has started the score is displayed on the bottom of the page
 
 ![image](https://github.com/Ryan-Khandaker/Rock-Paper-Scissors/assets/119060775/b12312c3-357f-43ab-a6e7-5a477e8e95bd)
 
+If the player decides to play all the rounds the center buttons are disabled preventing the player from continuing the tournament and the 'Next' button on the bottom left corner will take the player to the final window. 
 
+![image](https://github.com/Ryan-Khandaker/Rock-Paper-Scissors/assets/119060775/86d58a17-07e9-45c0-8a70-f184dd6a16b7)
+
+**Final Score**
+
+This window displays the final score of the tournament as well as stating the winner of the tournament. The 'Exit' button on the bottom right corner of the window allows players to close the window.
+
+![image](https://github.com/Ryan-Khandaker/Rock-Paper-Scissors/assets/119060775/627263ec-d10c-4ddb-9bb1-a602c544ca53)
