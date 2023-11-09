@@ -5,7 +5,7 @@ from PIL import ImageTk, Image
 #Configuring window
 window = tk.Tk()
 window.title("Rock, Paper, Scissors")
-window.geometry('1200x1000')
+window.geometry('1200x900')
 window.configure(bg = 'white')
 
 #Configuration of first window asking for amount of games to play
